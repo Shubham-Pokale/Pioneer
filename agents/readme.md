@@ -1,0 +1,1 @@
+## A MCP Server which lets AI Agents talk to each other.
